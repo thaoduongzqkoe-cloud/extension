@@ -3,6 +3,6 @@
   <app appid="menfnbilcojkemnmpjkodakagobobkpc">
     <updatecheck
       codebase="https://thaoduongzqkoe-cloud.github.io/extension/vnd.crx"
-      version="1.0.0"/>
+      version="1.0.0" />
   </app>
 </gupdate>
