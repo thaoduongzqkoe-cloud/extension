@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="menfnbilcojkemnmpjkodakagobobkpc">
     <updatecheck
-      codebase="https://USERNAME.github.io/smit-connect-ext/vnd.crx"
+      codebase="https://thaoduongzqkoe-cloud.github.io/extension/vnd.crx"
       version="1.0.0"/>
   </app>
 </gupdate>
